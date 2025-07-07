@@ -1,0 +1,89 @@
+[
+  {
+    "id": 2,
+    "title": "Designer",
+    "description": "Add this dropdown code to your frontend document",
+    "deadline": "2025-07-10T00:00:00Z",
+    "priority_score": 0,
+    "status": "pending",
+    "category": {
+      "id": 2,
+      "name": "Backend"
+    }
+  },
+  {
+    "id": 4,
+    "title": "front end developer",
+    "description": "Title: Front End Development Project Estimation\nContext: As a skilled Front End Developer, I will provide an accurate estimation of the time required to complete the development of the project based on its scope and complexity. To ensure an accurate assessment, I'll consider the following factors:\n\n1. Number and type of web pages or components to be developed.\n2. Complexity of HTML, CSS, and JavaScript codebase.\n3. Use of third-party libraries or frameworks (if any).\n4. Integration with a back-end system or API.\n5. Design requirements (custom or pre-made templates).\n6. Testing and optimization needs (browser compatibility, performance, accessibility).\n7. Version control and collaboration tools usage.\n8. Documentation requirements.\n\nBased on the above factors, I can provide a realistic deadline for the completion of your front end development project. Additionally, I will maintain open communication with you throughout the process to ensure that any changes or adjustments are considered in the timeline as necessary.",
+    "deadline": "2025-07-19T00:00:00Z",
+    "priority_score": 0,
+    "status": "pending",
+    "category": {
+      "id": 4,
+      "name": "Bug Fix"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Java developer",
+    "description": "",
+    "deadline": null,
+    "priority_score": 0,
+    "status": "pending",
+    "category": null
+  },
+  {
+    "id": 6,
+    "title": "Devops",
+    "description": "Title: DevOps Implementation and Estimation of Realistic Deadline\n\nContext:\nDevOps is a set of practices that combines software development (Dev) and IT operations (Ops). The goal of DevOps is to shorten the systems development life cycle, provide continuous delivery with high deployment frequency, and build a culture where building, testing, and deploying can happen rapidly, frequently, and more reliably.\n\nTo estimate a realistic deadline for your DevOps implementation project, consider the following factors:\n\n1. Project Scope: Clearly define the objectives of your DevOps initiative, including which tools and practices you plan to adopt.\n\n2. Team Size and Skills: Establish the size and capabilities of your team, considering both technical expertise in areas like infrastructure automation, containerization, continuous integration and deployment (CI/CD), and soft skills like collaboration and communication.\n\n3. Complexity of Existing Infrastructure: Assess the complexity of your existing systems and applications that will be integrated into the DevOps pipeline, as well as any customizations or unique requirements they may have.\n\n4. Dependencies on Third-Party Services or Integrations: Identify any third-party dependencies or integrations required for your DevOps implementation, such as cloud services, monitoring tools, or development platforms.\n\n5. Regulatory Compliance and Security: Consider any regulatory compliance requirements that need to be met during the implementation process. Additionally, address potential security implications of adopting DevOps practices and tools.\n\n6. Training and Support: Plan for any necessary training or ongoing support required to maintain your DevOps infrastructure and keep your team up-to-date with new best practices and tooling.\n\n7. Phased Approach: Break down the implementation into smaller, manageable phases, allowing you to test and refine each phase before moving on to the next. This will also provide an opportunity for incremental learning and feedback from stakeholders.\n\n8. Infrastructure Availability and Capacity: Ensure that any infrastructure required for your DevOps practices (e.g., cloud services, on-premises servers) is available and capable of handling the anticipated workload.\n\nBased on these factors, create a detailed project plan with milestones, dependencies, and estimated timelines. This will provide a realistic deadline for your DevOps implementation project while considering the complex",
+    "deadline": "2025-07-18T00:00:00Z",
+    "priority_score": 5,
+    "status": "done",
+    "category": {
+      "id": 2,
+      "name": "Backend"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Frontend",
+    "description": "Title: Frontend Development Project - Establishing a Realistic Timeline\n\nContext:\nThe frontend development project encompasses designing and building user interfaces, creating responsive layouts, implementing animations and transitions, optimizing web performance, and ensuring cross-browser compatibility for our application. Given the complexity of the project, we must establish a realistic timeline to meet project requirements while maintaining quality.\n\nSteps to determine a realistic deadline:\n1. Break down the frontend development project into smaller tasks:\n   a. Designing user interfaces\n   b. Developing responsive layouts\n   c. Building out components and features\n   d. Implementing animations and transitions\n   e. Optimizing web performance\n   f. Ensuring cross-browser compatibility\n2. Estimate the time required for each task based on their complexity:\n3. Allocate resources wisely, considering team size and availability.\n4. Allow extra time for unforeseen challenges or tasks that may take longer than anticipated.\n5. Incorporate milestones and checkpoints to keep track of progress and adjust the timeline if necessary.\n6. Communicate the estimated deadline with stakeholders and set expectations accordingly.",
+    "deadline": "2025-07-16T00:00:00Z",
+    "priority_score": 5,
+    "status": "pending",
+    "category": {
+      "id": 3,
+      "name": "DevOps"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Bug Fix",
+    "description": "",
+    "deadline": "2025-07-17T00:00:00Z",
+    "priority_score": 0,
+    "status": "pending",
+    "category": null
+  },
+  {
+    "id": 10,
+    "title": "Designer",
+    "description": "Add this dropdown code to your frontend document",
+    "deadline": "2025-07-10T00:00:00Z",
+    "priority_score": 0,
+    "status": "pending",
+    "category": {
+      "id": 2,
+      "name": "Backend"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Todo",
+    "description": "Title: Prioritized To-Do List with Realistic Deadlines\nContext:  Determine deadlines for each task based on priority and estimated time to complete.\n\n1. Identify the tasks: Write down all the tasks you need to complete.\n2. Prioritize the tasks: Rank the tasks in order of importance, considering their impact and urgency.\n3. Estimate time per task: For each task, estimate how long it will take to complete it under normal circumstances. Be realistic.\n4. Determine deadlines: Based on priority and estimated time, assign a deadline to each task. Make sure the deadlines are achievable but also challenge you to stay productive.\n5. Review and adjust as needed: Regularly review your list, updating priorities and deadlines as new information becomes available or as circumstances change.",
+    "deadline": "2025-07-07T00:00:00Z",
+    "priority_score": 5,
+    "status": "pending",
+    "category": null
+  }
+]
