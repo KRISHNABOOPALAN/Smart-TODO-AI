@@ -59,91 +59,22 @@ GET     	/api/categories/	  List task categories
 
 ### 📋 Dashboard View
 ![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard-Darktheme.png)
 
 ### ✍️ Task Form
-![Task Form](./screenshots/task-form.png)
+![Task Form](./screenshots/task-page.png)
+![Task Edit Form](./screenshots/task-edit-page.png)
 
 ### 🧠 Context Input Page
 ![Context Page](./screenshots/context-page.png)
 
 ### 🤖 AI Suggestions
 ![AI Output](./screenshots/ai-output.png)
+![AI Output](./screenshots/ai-loading.png)
 
 
 ### Sample Test Data
-
-[
-  {
-    "model": "todo.category",
-    "pk": 1,
-    "fields": {
-      "name": "Work",
-      "usage_frequency": 5
-    }
-  },
-  {
-    "model": "todo.category",
-    "pk": 2,
-    "fields": {
-      "name": "Personal",
-      "usage_frequency": 3
-    }
-  },
-  {
-    "model": "todo.contextentry",
-    "pk": 1,
-    "fields": {
-      "content": "Team meeting scheduled for Monday at 10 AM",
-      "source": "email",
-      "timestamp": "2025-07-06T10:00:00Z",
-      "insights": {
-        "keywords": ["meeting", "team", "monday"],
-        "sentiment": "neutral"
-      }
-    }
-  },
-  {
-    "model": "todo.contextentry",
-    "pk": 2,
-    "fields": {
-      "content": "Remember to buy groceries and pay the electricity bill",
-      "source": "note",
-      "timestamp": "2025-07-06T11:00:00Z",
-      "insights": {
-        "keywords": ["groceries", "bill"],
-        "sentiment": "urgent"
-      }
-    }
-  },
-  {
-    "model": "todo.task",
-    "pk": 1,
-    "fields": {
-      "title": "Prepare meeting slides",
-      "description": "Slides for Monday’s team meeting",
-      "category": 1,
-      "priority_score": 8.5,
-      "deadline": "2025-07-08T08:00:00Z",
-      "status": "pending",
-      "created_at": "2025-07-06T09:00:00Z",
-      "updated_at": "2025-07-06T09:00:00Z"
-    }
-  },
-  {
-    "model": "todo.task",
-    "pk": 2,
-    "fields": {
-      "title": "Pay electricity bill",
-      "description": "Before the due date: July 9",
-      "category": 2,
-      "priority_score": 7.2,
-      "deadline": "2025-07-09T23:59:00Z",
-      "status": "pending",
-      "created_at": "2025-07-06T09:30:00Z",
-      "updated_at": "2025-07-06T09:30:00Z"
-    }
-  }
-]
+task.json-file
 
 
 ### Environment Variables
