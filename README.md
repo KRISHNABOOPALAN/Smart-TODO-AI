@@ -59,15 +59,18 @@ GET     	/api/categories/	  List task categories
 
 ### 📋 Dashboard View
 ![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard-Darktheme.png)
 
 ### ✍️ Task Form
-![Task Form](./screenshots/task-form.png)
+![Task Form](./screenshots/task-page.png)
+![Task Edit Form](./screenshots/task-edit-page.png)
 
 ### 🧠 Context Input Page
 ![Context Page](./screenshots/context-page.png)
 
 ### 🤖 AI Suggestions
 ![AI Output](./screenshots/ai-output.png)
+![AI Output](./screenshots/ai-loading.png)
 
 
 ### Sample Test Data
